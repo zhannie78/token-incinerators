@@ -3089,7 +3089,7 @@ function Shell({ children }) {
 										fontSize: 9.5,
 										letterSpacing: ".22em"
 									},
-									children: "BY TOKEISO"
+									children: "BY TOKEICO"
 								})]
 							})]
 						}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("nav", {
@@ -5488,7 +5488,7 @@ function LandingPage() {
 											fontSize: 9.5,
 											letterSpacing: ".22em"
 										},
-										children: "BY TOKEISO"
+										children: "BY TOKEICO"
 									})]
 								})]
 							}),
@@ -5884,7 +5884,7 @@ function LandingPage() {
 									fontSize: 9.5,
 									letterSpacing: ".22em"
 								},
-								children: "BY TOKEISO"
+								children: "BY TOKEICO"
 							})
 						]
 					}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {

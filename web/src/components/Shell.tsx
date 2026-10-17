@@ -59,7 +59,7 @@ export function Shell({ children }: { children: ReactNode }) {
                   className="mono text-ash-dim"
                   style={{ fontSize: 9.5, letterSpacing: '.22em' }}
                 >
-                  BY TOKEISO
+                  BY TOKEICO
                 </span>
               </div>
             </Link>

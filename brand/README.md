@@ -1,6 +1,6 @@
 # Brand reference
 
-Artwork for Corredor by Tokeiso, used as the source of truth for the app's
+Artwork for Corredor by Tokeico, used as the source of truth for the app's
 colour, type and imagery.
 
 | File | What it is |

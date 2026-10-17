@@ -70,7 +70,7 @@ export function LandingPage() {
 								className="mono text-ash-dim"
 								style={{ fontSize: 9.5, letterSpacing: ".22em" }}
 							>
-								BY TOKEISO
+								BY TOKEICO
 							</span>
 						</div>
 					</div>
@@ -311,7 +311,7 @@ export function LandingPage() {
 							className="mono text-ash-dim"
 							style={{ fontSize: 9.5, letterSpacing: ".22em" }}
 						>
-							BY TOKEISO
+							BY TOKEICO
 						</span>
 					</div>
 					<span className="text-ash-dim" style={{ fontSize: 13 }}>
